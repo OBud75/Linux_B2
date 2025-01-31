@@ -11,6 +11,7 @@ Stanford Programming paradigms:
 
 Documentations:
 	https://doc.ubuntu-fr.org/cron
+	https://doc.ubuntu-fr.org/systemd
 	https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps
 	https://supervisord.org/index.html
 	https://openclassrooms.com/fr/courses/4425101-deployez-une-application-django/4688335-configurez-un-espace-serveur
