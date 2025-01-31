@@ -8,6 +8,7 @@ def handle_request(request):
     if "GET / " in request:
         with open(f"{TEMPLATE_DIR}/index.html", "r") as file:
             body = file.read()
+            body.replace("user", "John Doe")
         response = f"HTTP/1.1 200 OK\r\nContent-Type: text/html\r\nContent-Length: {len(body)}\r\n\r\n{body}"
     elif "GET /auth " in request:
         with open(f"{TEMPLATE_DIR}/auth.html", "r") as file:
