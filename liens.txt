@@ -1,0 +1,14 @@
+Exploring how computers work:
+	https://youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&si=qlKNkUKPXxHM2cNZ
+
+CS50 (Intro Computer Sciences):
+	https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
+
+Stanford Programming paradigms:
+	https://youtube.com/playlist?list=PL9D558D49CA734A02&si=2J0OBWzOZj86nUup
+
+
+Openclassrooms:
+	Déployer une application:
+https://openclassrooms.com/fr/courses/4425101-deployez-une-application-django/4688335-configurez-un-espace-serveur
+
