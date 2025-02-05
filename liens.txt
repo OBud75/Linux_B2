@@ -1,28 +1,124 @@
 Exploring how computers work:
 	https://youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&si=qlKNkUKPXxHM2cNZ
-
-CS50 (Intro Computer Sciences):
-	https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
-
-Stanford Programming paradigms:
-	https://youtube.com/playlist?list=PL9D558D49CA734A02&si=2J0OBWzOZj86nUup
+	https://www.nand2tetris.org/
 
 
+Gnu-Linux
+        https://www.gnu.org/
+        https://docs.kernel.org/
 
-Documentations:
-	https://doc.ubuntu-fr.org/cron
-	https://doc.ubuntu-fr.org/systemd
 
-	https://doc.ubuntu-fr.org/creer_un_service_avec_systemd
+Cours Linux + Tutos
+        https://linuxjourney.com/
 
-	https://supervisord.org/index.html
 
+Ubuntu
+        https://ubuntu.com/
+        https://help.ubuntu.com/
+        https://manpages.ubuntu.com/
+        https://ubuntu.com/server/docs/
+
+
+Ubuntu - Tutoriels
+        https://doc.ubuntu-fr.org/tutoriel/amorcer_sur_cd_ubuntu
+        https://doc.ubuntu-fr.org/tutoriel/installer_ubuntu_avec_le_live_cd
+        https://doc.ubuntu-fr.org/tutoriel/completer_installation_ubuntu
+        https://doc.ubuntu-fr.org/reflexe_ubunteros
+        https://doc.ubuntu-fr.org/tutoriel/learn_unix_in_10_minutes
+
+        https://doc.ubuntu-fr.org/projets/ecole/scripting/initiation_au_shell
+        https://doc.ubuntu-fr.org/tutoriel/console_ligne_de_commande
+        https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base
+        https://doc.ubuntu-fr.org/tutoriel/comment_modifier_un_fichier
+        https://doc.ubuntu-fr.org/tutoriel/comment_sauver_et_restaurer_un_fichier
+        https://doc.ubuntu-fr.org/tutoriel/gestion_utilisateurs_et_groupes_en_ligne_de_commande
+        https://doc.ubuntu-fr.org/tutoriel/effectuer_des_taches_en_super_utilisateur
+
+        https://doc.ubuntu-fr.org/tutoriel/tout_savoir_sur_les_modules_linux
+        https://doc.ubuntu-fr.org/tutoriel/donnees_stockees_dans_un_systeme_de_fichiers_zfs
+        https://doc.ubuntu-fr.org/tutoriel/reverse_ssh
+
+
+Ubuntu - Documentations
+        https://www.ubuntu-fr.org/download/
+        https://doc.ubuntu-fr.org/installation
+        https://doc.ubuntu-fr.org/cohabitation_ubuntu_windows
+
+        https://doc.ubuntu-fr.org/console
+        https://doc.ubuntu-fr.org/terminal
+        https://doc.ubuntu-fr.org/commande_shell
+        https://doc.ubuntu-fr.org/editeur_de_texte
+        https://doc.ubuntu-fr.org/vim
+        https://doc.ubuntu-fr.org/ide
+        https://doc.ubuntu-fr.org/visual_studio_code
+
+        https://doc.ubuntu-fr.org/systeme
+        https://doc.ubuntu-fr.org/utilisateur
+        https://doc.ubuntu-fr.org/utilisateurs_et_groupes
+        https://doc.ubuntu-fr.org/droits
+        https://doc.ubuntu-fr.org/permissions
+        https://doc.ubuntu-fr.org/users-admin
+        https://doc.ubuntu-fr.org/sudo
+        https://doc.ubuntu-fr.org/sudoers
+
+        https://doc.ubuntu-fr.org/services
+        https://doc.ubuntu-fr.org/gestionnaire_de_mises_a_jour
+        https://doc.ubuntu-fr.org/systemd
+        https://doc.ubuntu-fr.org/creer_un_service_avec_systemd
+        https://doc.ubuntu-fr.org/cron
+        https://doc.ubuntu-fr.org/mount_fstab
+        https://doc.ubuntu-fr.org/mounter_un_disque_avec_systemd.automount
+
+        https://doc.ubuntu-fr.org/securite
+        https://doc.ubuntu-fr.org/diagnostic_outil
+        https://doc.ubuntu-fr.org/ufw
+        https://doc.ubuntu-fr.org/gnupg
+        https://doc.ubuntu-fr.org/network-manager
+        https://doc.ubuntu-fr.org/ssh
+        https://doc.ubuntu-fr.org/configurer_mail
+
+	https://doc.ubuntu-fr.org/analyseur_usage_espace_disque
         https://doc.ubuntu-fr.org/nettoyer_ubuntu
         https://doc.ubuntu-fr.org/logrotate
 
 
+Windows Linux Server
+        https://learn.microsoft.com/fr-fr/windows/wsl/
+        https://youtu.be/lwhMThePdIo?si=xnFOB-pTSb8m2h06
+
+        https://learn.microsoft.com/fr-fr/windows/wsl/filesystems
+        https://learn.microsoft.com/fr-fr/windows/wsl/tutorials/linux
+        https://learn.microsoft.com/fr-fr/windows/wsl/tutorials/wsl-git
+        https://learn.microsoft.com/fr-fr/windows/wsl/tutorials/gui-apps
+
+        https://learn.microsoft.com/fr-fr/training/modules/bash-introduction
+
+
+CS50 (Intro Computer Sciences)
+        https://www.edx.org/cs50
+        https://cs50.harvard.edu/x/2025/
+        https://cs50.harvard.edu/x/2025/psets/
+        https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
+
+
+Openclassrooms
+        https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux
+        https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux
+        https://openclassrooms.com/fr/courses/1733551-gerez-votre-serveur-linux-et-ses-services
+        https://openclassrooms.com/fr/courses/2356316-montez-un-serveur-de-fichiers-sous-linux
+        https://openclassrooms.com/fr/courses/4425101-deployez-une-application-django/4688335-configurez-un-espace-serveur
+
+
+Cours et ressources diverses
+	https://linux.die.net/man/1/lockfile
+        https://supervisord.org/index.html
+        https://serversforhackers.com/c/monitoring-processes-with-supervisord
 	https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps
-	https://openclassrooms.com/fr/courses/4425101-deployez-une-application-django/4688335-configurez-un-espace-serveur
 
 
+Syscall table
+        https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 
+
+Stanford Programming paradigms (Cours avancé)
+        https://youtube.com/playlist?list=PL9D558D49CA734A02&si=2J0OBWzOZj86nUup
