@@ -94,13 +94,6 @@ Windows Linux Server
         https://learn.microsoft.com/fr-fr/training/modules/bash-introduction
 
 
-CS50 (Intro Computer Sciences)
-        https://www.edx.org/cs50
-        https://cs50.harvard.edu/x/2025/
-        https://cs50.harvard.edu/x/2025/psets/
-        https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
-
-
 Openclassrooms
         https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux
         https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux
@@ -118,6 +111,13 @@ Cours et ressources diverses
 
 Syscall table
         https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
+
+
+CS50 (Intro Computer Sciences)
+        https://www.edx.org/cs50
+        https://cs50.harvard.edu/x/2025/
+        https://cs50.harvard.edu/x/2025/psets/
+        https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
 
 
 Stanford Programming paradigms (Cours avancé)
