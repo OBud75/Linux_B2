@@ -1,22 +1,56 @@
 Exploring how computers work:
-	https://youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&si=qlKNkUKPXxHM2cNZ
+        https://youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&si=qlKNkUKPXxHM2cNZ
 	https://www.nand2tetris.org/
+	https://fr.wikipedia.org/wiki/Alg%C3%A8bre_de_Boole_(logique)
+	https://fr.wikipedia.org/wiki/Lois_de_De_Morgan
+
+Unix
+	https://fr.wikipedia.org/wiki/AT%26T
+	https://fr.wikipedia.org/wiki/Laboratoires_Bell
+	https://en.wikipedia.org/wiki/Sun_Microsystems
+        https://fr.wikipedia.org/wiki/Berkeley_Software_Distribution
+        https://fr.wikipedia.org/wiki/Noyau_de_syst%C3%A8me_d%27exploitation
+
+        https://en.wikipedia.org/wiki/Unix-like
+        Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | Lex Fridman Podcast :
+                https://youtu.be/O9upVbGSBFo?si=4iImVjR-OW1DImj9
+        AT&T Archives: The UNIX Operating System:
+                https://youtu.be/tc4ROCJYbm0?si=qqe3y9SrxSr7Yc4H
+
+GNU
+	https://fr.wikipedia.org/wiki/Richard_Stallman
+	https://fr.wikipedia.org/wiki/GNU
+	https://wiki.crans.org/InstallParty/AffichesDePromotion?action=AttachFile&do=get&target=affiche-gnu.pdf	
 
 
 Gnu-Linux
+	https://en.wikipedia.org/wiki/Linux_kernel
+	https://en.wikipedia.org/wiki/History_of_Linux
+	The mind behind Linux | Linus Torvalds | TED :
+		https://youtu.be/o8NPllzkFhE?si=wgWaq1t3nQJGzE9c
+
         https://www.gnu.org/
         https://docs.kernel.org/
+	https://gnome.org/https://guide.ubuntu-fr.org/
+	https://apps.gnome.org/
 
 
-Cours Linux + Tutos
-        https://linuxjourney.com/
+Cours avec exercices
+	https://linuxjourney.com/
+	https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux
+	https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux
+	https://openclassrooms.com/fr/courses/1733551-gerez-votre-serveur-linux-et-ses-services
+	https://openclassrooms.com/fr/courses/2356316-montez-un-serveur-de-fichiers-sous-linux
+        https://openclassrooms.com/fr/courses/4425101-deployez-une-application-django/4688335-configurez-un-espace-serveur
 
 
 Ubuntu
-        https://ubuntu.com/
-        https://help.ubuntu.com/
-        https://manpages.ubuntu.com/
-        https://ubuntu.com/server/docs/
+	https://ubuntu.com/
+	https://help.ubuntu.com/
+	https://manpages.ubuntu.com/
+	https://ubuntu.com/server/docs/
+	https://guide.ubuntu-fr.org/
+	https://launchpad.net/ubuntu
 
 
 Ubuntu - Tutoriels
@@ -60,14 +94,23 @@ Ubuntu - Documentations
         https://doc.ubuntu-fr.org/users-admin
         https://doc.ubuntu-fr.org/sudo
         https://doc.ubuntu-fr.org/sudoers
+	https://doc.ubuntu-fr.org/variables_d_environnement
+
+	https://doc.ubuntu-fr.org/apt
+        https://doc.ubuntu-fr.org/apt-get
+        https://doc.ubuntu-fr.org/apt-cli
+        https://doc.ubuntu-fr.org/gestionnaire_de_mises_a_jour
+        https://doc.ubuntu-fr.org/nettoyer_ubuntu
 
         https://doc.ubuntu-fr.org/services
-        https://doc.ubuntu-fr.org/gestionnaire_de_mises_a_jour
         https://doc.ubuntu-fr.org/systemd
         https://doc.ubuntu-fr.org/creer_un_service_avec_systemd
+        https://doc.ubuntu-fr.org/logrotate
         https://doc.ubuntu-fr.org/cron
         https://doc.ubuntu-fr.org/mount_fstab
-        https://doc.ubuntu-fr.org/mounter_un_disque_avec_systemd.automount
+        https://doc.ubuntu-fr.org/mounter_un_disque_avec_systemd.automount 
+        https://doc.ubuntu-fr.org/analyseur_usage_espace_disque
+        https://doc.ubuntu-fr.org/nettoyer_ubuntu
 
         https://doc.ubuntu-fr.org/securite
         https://doc.ubuntu-fr.org/diagnostic_outil
@@ -77,12 +120,8 @@ Ubuntu - Documentations
         https://doc.ubuntu-fr.org/ssh
         https://doc.ubuntu-fr.org/configurer_mail
 
-	https://doc.ubuntu-fr.org/analyseur_usage_espace_disque
-        https://doc.ubuntu-fr.org/nettoyer_ubuntu
-        https://doc.ubuntu-fr.org/logrotate
 
-
-Windows Linux Server
+Windows Subsystem Linux
         https://learn.microsoft.com/fr-fr/windows/wsl/
         https://youtu.be/lwhMThePdIo?si=xnFOB-pTSb8m2h06
 
@@ -93,13 +132,10 @@ Windows Linux Server
 
         https://learn.microsoft.com/fr-fr/training/modules/bash-introduction
 
-
-Openclassrooms
-        https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux
-        https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux
-        https://openclassrooms.com/fr/courses/1733551-gerez-votre-serveur-linux-et-ses-services
-        https://openclassrooms.com/fr/courses/2356316-montez-un-serveur-de-fichiers-sous-linux
-        https://openclassrooms.com/fr/courses/4425101-deployez-une-application-django/4688335-configurez-un-espace-serveur
+Windows tools
+	https://chocolatey.org/
+	https://apps.microsoft.com/
+	https://git-scm.com/downloads
 
 
 Cours et ressources diverses
@@ -109,15 +145,65 @@ Cours et ressources diverses
 	https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps
 
 
+Utils
+	https://pythontutor.com/
+	https://markdownlivepreview.com/
+	https://regex101.com/
+
+
+CS50 (Intro Computer Sciences):
+	https://www.edx.org/cs50
+	https://cs50.harvard.edu/x/2025/
+	https://cs50.harvard.edu/x/2025/psets/
+        https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
+
+	https://cs50.harvard.edu/ai/2024/
+	https://cs50.harvard.edu/cybersecurity/2023/
+	https://cs50.harvard.edu/sql/2024/
+
+
 Syscall table
         https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 
 
-CS50 (Intro Computer Sciences)
-        https://www.edx.org/cs50
-        https://cs50.harvard.edu/x/2025/
-        https://cs50.harvard.edu/x/2025/psets/
-        https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
+Dev
+	L'IA n'existe pas (Luc Julia) https://youtu.be/yuDBSbng_8o?si=0olR7cCnEohElaeB
+	https://www.youtube.com/@CodeAesthetic
+	https://peps.python.org/pep-0008/
+	Oncle Bob :
+		Clean code
+		Clean architecture 
+		https://blog.cleancoder.com/
+		https://www.mozilla.org/fr/
+		https://developer.mozilla.org/fr/
+		https://fr.wikipedia.org/wiki/UML_(informatique)
+		https://en.wikipedia.org/wiki/Software_design_pattern
+
+3 hardest things in CS:
+	- Naming things
+	- Cache invalidation
+	- N+1 errors
+
+Zen of python
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
 
 
 Stanford Programming paradigms (Cours avancé)
