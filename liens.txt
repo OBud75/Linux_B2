@@ -41,7 +41,21 @@ Cours avec exercices
 	https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux
 	https://openclassrooms.com/fr/courses/1733551-gerez-votre-serveur-linux-et-ses-services
 	https://openclassrooms.com/fr/courses/2356316-montez-un-serveur-de-fichiers-sous-linux
-        https://openclassrooms.com/fr/courses/4425101-deployez-une-application-django/4688335-configurez-un-espace-serveur
+
+
+Deployment
+	https://www.digitalocean.com/community/tutorials/how-to-deploy-python-wsgi-applications-using-uwsgi-web-server-with-nginx
+	https://www.sysnove.fr/blog/2014/01/deployer-application-web-python-nginx-uwsgi.html
+
+
+Flask
+	https://flask.palletsprojects.com/en/stable/deploying/
+	https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-20-04
+	https://medium.com/@yekabotep/deploy-flask-app-in-nginx-using-uwsgi-with-architectural-explanation-2e24a41c030a        
+
+Django
+	https://docs.djangoproject.com/en/5.1/howto/deployment/
+	https://openclassrooms.com/fr/courses/4425101-deployez-une-application-django/4688335-configurez-un-espace-serveur
 
 
 Ubuntu
@@ -149,6 +163,7 @@ Utils
 	https://pythontutor.com/
 	https://markdownlivepreview.com/
 	https://regex101.com/
+	https://ngrok.com/
 
 
 CS50 (Intro Computer Sciences):
