@@ -161,11 +161,19 @@ Cours et ressources diverses
         https://serversforhackers.com/c/monitoring-processes-with-supervisord
 	https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps
 
-Python for administration
+Python for admin
 	https://docs.python.org/fr/3.13/library/os.html
 	https://docs.python.org/3/library/os.path.html
 	https://docs.python.org/3/library/pathlib.html -> Librairie "haut niveau d'abstraction"
+	https://docs.python.org/3/library/stat.html
 
+	https://docs.python.org/fr/3/library/threading.html
+	https://docs.python.org/fr/3/library/multiprocessing.html
+
+Python for requests
+	https://docs.python.org/fr/3/library/http.html
+	https://docs.python.org/fr/3.13/library/urllib.request.html
+	https://requests.readthedocs.io/en/latest/ -> Librairie "haut niveau d'abstraction"
 
 Utils
 	https://pythontutor.com/
