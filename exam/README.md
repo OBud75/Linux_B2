@@ -93,6 +93,7 @@ ___
     - A quoi sert le programme Nginx ?
     - A quoi correspondent les initiales MVC ? Quel avantage offre cette architecture d'application ?
     - A quoi correspondent les initiales CRUD ?
+    - Comment faire une requete vers "https://www.google.com" depuis le terminal ?
 
 
 ## Projets
