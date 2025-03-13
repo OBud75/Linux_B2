@@ -173,6 +173,7 @@ Python for admin
 Python for requests
 	https://docs.python.org/fr/3/library/http.html
 	https://docs.python.org/fr/3.13/library/urllib.request.html
+	https://urllib3.readthedocs.io/en/stable/
 	https://requests.readthedocs.io/en/latest/ -> Librairie "haut niveau d'abstraction"
 
 Utils
