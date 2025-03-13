@@ -44,6 +44,9 @@ Cours avec exercices
 
 
 Deployment
+	https://fr.wikipedia.org/wiki/WebSocket
+	https://fr.wikipedia.org/wiki/Serveur_web
+
 	https://www.digitalocean.com/community/tutorials/how-to-deploy-python-wsgi-applications-using-uwsgi-web-server-with-nginx
 	https://www.sysnove.fr/blog/2014/01/deployer-application-web-python-nginx-uwsgi.html
 
