@@ -7,7 +7,7 @@
 ___
 0. Generals
     - Quelle différence entre GNU et Linux ?
-    - Qui est l'inventeur de Linux ? Citez un autre programme célèbres dont il est à l'origine.
+    - Qui est l'inventeur de Linux ? Citez un autre programme célèbre dont il est à l'origine.
 
 1. FileSystem
     - Créer un dossier "assets" à la racine du dossier d'exam
@@ -80,7 +80,7 @@ ___
 
 8. Logs
     - Quels sont les différents niveaux de logs ?
-    - Créer un script qui, quand il est lancé, ajoute dans un fichier "logs" une ligne avec l'utilisateur actuel ainsi que l'heure à laquelle le programme est lancé.
+    - Créer un script "logger" qui, quand il est lancé, ajoute dans un fichier "logs" une ligne avec l'utilisateur actuel ainsi que l'heure à laquelle le programme est lancé.
     - Comment limiter la taille des fichiers de log du journal (journalctl) à 200Mo ?
     - Comment configurer les logs de l'application "nginx" (situés dans /var/log/nginx.log) pour que des rotations soient effectuées tous les mois en conservant les 12 derniers mois de logs, compressant les plus ancients, et en créant un nouveau fichier avec un mod "644 root root"
     - Dans la pratique, pourquoi créer des règles de rotation de log ?
