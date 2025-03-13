@@ -197,6 +197,8 @@ CS50 (Intro Computer Sciences):
 Syscall table
         https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 
+Code logic
+	https://adventofcode.com/
 
 Dev
 	L'IA n'existe pas (Luc Julia) https://youtu.be/yuDBSbng_8o?si=0olR7cCnEohElaeB
