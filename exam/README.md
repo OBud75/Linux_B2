@@ -1,4 +1,4 @@
-# Linux Exam B1
+# Linux Exam B2
 
 ## Exercices à faire en cours
 * Faire un dossier par exercice avec script + fichier d'outputs + screenshots.
